@@ -15,7 +15,7 @@ const URL = "https://teachablemachine.withgoogle.com/models/pbSun7gAp/";
 - 스쿼트
 
 ```html
-const URL = "";
+const URL = "https://teachablemachine.withgoogle.com/models/NcKJnoqIZ/";
 ```
 
 - 버피테스트
